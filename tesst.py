@@ -1,0 +1,1 @@
+print("xin chao truong dep trai vcl")
